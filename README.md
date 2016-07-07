@@ -1,2 +1,2 @@
 # sf-movies
-SF Movies 
+SF Movies App
