@@ -1,1 +1,1 @@
-web: java -Dserver.port=80 -jar api/target/movies-api.jar
+web: java -Dserver.port=8080 -jar api/target/movies-api.jar
